@@ -1,6 +1,6 @@
 # ENGLISH
 
-# 💡 My 2 Cents - Thoughts, Scripts, and Solutions by Dorna Ivan (dorvan)
+# 💡 My 2 Cents - Thoughts, Scripts, and Solutions by Ivan Dorna (dorvan)
 
 Welcome to **"My 2 Cents"**, a collection of solutions, scripts, and thoughts on IT, open-source, and automation.  
 Here, I share code, ideas, fixes, and strategies that I have found useful in my work and that could help other developers, sysadmins, and tech enthusiasts.
@@ -43,7 +43,7 @@ If you find this repository useful, **leave a ⭐ on GitHub** and contribute! �
 
 # ITALIAN
 
-# 💡 I miei 2 cent - Pensieri, Script e Soluzioni di Dorna Ivan (dorvan)
+# 💡 I miei 2 cent - Pensieri, Script e Soluzioni di Ivan Dorna (dorvan)
 
 Benvenuti nel mio repository **"I miei 2 cent"**, una raccolta di soluzioni, script e pensieri sul mondo IT, open-source e dell'automazione.  
 Qui pubblico codice, idee, fix e strategie che ho trovato utili nel mio lavoro e che potrebbero aiutare altri sviluppatori, sistemisti e appassionati di tecnologia.
